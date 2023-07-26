@@ -1,0 +1,5 @@
+chadsoft_cached/
+__pycache__/
+*.py
+*.json
+LICENSE

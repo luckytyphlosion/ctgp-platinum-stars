@@ -174,7 +174,7 @@ const esgDriverVehicleIds = {
     "driverId": 18,
     "trackName": "Alpine Peak"
   },
-  "F95983BCD89BC0EB7EF0C12E4FD7126CD44EBFC3": {
+  "95CD1930B991EDF2CC5356CFE1E74833B94E1C68": {
     "vehicleId": 23,
     "driverId": 9,
     "trackName": "Alpine Skyway"
@@ -184,9 +184,14 @@ const esgDriverVehicleIds = {
     "driverId": 8,
     "trackName": "Amanita Abyss"
   },
-  "6DEA567E6B20E8766215613B65885A652C9DE88D": {
-    "vehicleId": 22,
-    "driverId": 7,
+  "695F9719C3B7E7C4DF4EB4BCF9A1653B2064CFE5": {
+    "vehicleId": 23,
+    "driverId": 21,
+    "trackName": "Aqua Dungeon"
+  },
+  "133146F9109DB5C7669938A64555E17C110BC6B3": {
+    "vehicleId": 21,
+    "driverId": 14,
     "trackName": "Aquadrom Stage"
   },
   "22D1945EEE7D68E87C5033C2C195D11820233169": {
@@ -214,10 +219,25 @@ const esgDriverVehicleIds = {
     "driverId": 36,
     "trackName": "Big Nature City"
   },
+  "2F128A37E502769C371134B2A067DEFA6BBF2CB1": {
+    "vehicleId": 23,
+    "driverId": 36,
+    "trackName": "Blissful Block"
+  },
+  "BBA9AD3760740F4E1C72EF74A64CB852EC6C41D5": {
+    "vehicleId": 29,
+    "driverId": 19,
+    "trackName": "Bluster Blob Bluff"
+  },
   "9AE04558F8910DBD8D4107A035DE91EE47278C83": {
     "vehicleId": 22,
     "driverId": 10,
     "trackName": "Boshi Skatepark"
+  },
+  "F62C8D95FB0619FC4CAFE084F4D273D8D42B6E3B": {
+    "vehicleId": 31,
+    "driverId": 20,
+    "trackName": "Bowser Jr.'s Crafty Castle"
   },
   "CEC517F35976B24477C7791CBA319C2A6ED8DA6E": {
     "vehicleId": 23,
@@ -249,12 +269,17 @@ const esgDriverVehicleIds = {
     "driverId": 5,
     "trackName": "Canyon Run"
   },
+  "E831AE021574327C9A3EB61B3A378159AADB3EB9": {
+    "vehicleId": 23,
+    "driverId": 38,
+    "trackName": "Castle in the Sky"
+  },
   "69A435D876210E5836637EC966BD67717E813CBF": {
     "vehicleId": 23,
     "driverId": 3,
     "trackName": "Castle of Darkness"
   },
-  "5A5EFA90E4A83E4F873E2728F25A994451E8DB4A": {
+  "1CFB5AEE2C6B78D9154ABE7EB3E096A50C95F369": {
     "vehicleId": 23,
     "driverId": 21,
     "trackName": "Castle of Time"
@@ -279,11 +304,6 @@ const esgDriverVehicleIds = {
     "driverId": 30,
     "trackName": "Coin Heaven"
   },
-  "FEF3847079DB3E869B8B3BD940E0D5AEE9C33ADC": {
-    "vehicleId": 23,
-    "driverId": 3,
-    "trackName": "Colour Circuit"
-  },
   "D84CE6E63C59F95EB50BB892DAD419C0AE54001A": {
     "vehicleId": 23,
     "driverId": 23,
@@ -293,6 +313,11 @@ const esgDriverVehicleIds = {
     "vehicleId": 33,
     "driverId": 8,
     "trackName": "Concord Town"
+  },
+  "C671AA67D80792824DA203E22D070B7748607A70": {
+    "vehicleId": 22,
+    "driverId": 17,
+    "trackName": "Cosmic Grove"
   },
   "BDAF6FEC3D5F907F47DA8447971868F7E3C1903B": {
     "vehicleId": 22,
@@ -344,9 +369,9 @@ const esgDriverVehicleIds = {
     "driverId": 23,
     "trackName": "Dawn Township"
   },
-  "7963741EB1EF56AE8F6A090B3E5F8B1F4904532B": {
-    "vehicleId": 23,
-    "driverId": 11,
+  "791ACADB13C9232977722999E09FCDAB023F7780": {
+    "vehicleId": 22,
+    "driverId": 15,
     "trackName": "Delfino Island"
   },
   "44076849C003028A977A49E37E7681E754D4C7C9": {
@@ -359,11 +384,6 @@ const esgDriverVehicleIds = {
     "driverId": 21,
     "trackName": "Desert Fort"
   },
-  "FF789A3CAA6F152E393A92EA74DF0E3633EB4FB6": {
-    "vehicleId": 32,
-    "driverId": 21,
-    "trackName": "Desert Mushroom Ruins"
-  },
   "98C290852B6D0757164C7CCE77E8F6648CEFF910": {
     "vehicleId": 22,
     "driverId": 30,
@@ -374,7 +394,7 @@ const esgDriverVehicleIds = {
     "driverId": 2,
     "trackName": "Disco Fever"
   },
-  "A729FBE0A33FAAF70501C8D6C0790167A2192FC5": {
+  "712877C8D1A92E21AD5E6580EC20809A9EBD7CDE": {
     "vehicleId": 23,
     "driverId": 9,
     "trackName": "DK Ruins"
@@ -414,17 +434,12 @@ const esgDriverVehicleIds = {
     "driverId": 9,
     "trackName": "DS DK Pass"
   },
-  "39CCB7BAC833FEC77B261F51323BF81478DC295D": {
-    "vehicleId": 32,
-    "driverId": 36,
-    "trackName": "DS Figure-8 Circuit"
-  },
   "4ECE16D05C10C3037ED2B61CE7D9B5E07773F950": {
     "vehicleId": 22,
     "driverId": 7,
     "trackName": "DS Luigi's Mansion"
   },
-  "BDF752649175E5AC674D643235FC37DA9A720EC3": {
+  "FFB210B1C076A85399B6826705A050B6C503F505": {
     "vehicleId": 22,
     "driverId": 0,
     "trackName": "DS Mario Circuit"
@@ -464,6 +479,11 @@ const esgDriverVehicleIds = {
     "driverId": 23,
     "trackName": "Festival Town"
   },
+  "73FAD13C3F633613A7C9B0D023D488A8A64C77D3": {
+    "vehicleId": 23,
+    "driverId": 3,
+    "trackName": "Fiery Factory, Fading Frost"
+  },
   "780C3EC159B979F189F1BD931CA390EBA344C358": {
     "vehicleId": 23,
     "driverId": 3,
@@ -483,6 +503,11 @@ const esgDriverVehicleIds = {
     "vehicleId": 23,
     "driverId": 9,
     "trackName": "Forest Creek"
+  },
+  "138E22B59C69A7139D415D4F7765D7D639FB9D7F": {
+    "vehicleId": 22,
+    "driverId": 30,
+    "trackName": "Frantic Funyard"
   },
   "9E7B350CB2CFA11940E52B841CC29E3FB774322C": {
     "vehicleId": 23,
@@ -514,7 +539,7 @@ const esgDriverVehicleIds = {
     "driverId": 21,
     "trackName": "GBA Bowser Castle 4"
   },
-  "61938E2E4F65BBA325B9D06A817AF9F33837BF58": {
+  "173780BCBD55E31F28123C2D146C94647BDE219D": {
     "vehicleId": 23,
     "driverId": 19,
     "trackName": "GBA Broken Pier"
@@ -534,9 +559,9 @@ const esgDriverVehicleIds = {
     "driverId": 5,
     "trackName": "GBA Lakeside Park"
   },
-  "4952254AD3E9D9392703B6D6B7945BE801D64B0C": {
-    "vehicleId": 31,
-    "driverId": 7,
+  "F5EA6E15605DC1A0E856DB21571A5F2DEEBD9A9D": {
+    "vehicleId": 30,
+    "driverId": 12,
     "trackName": "GBA Luigi Circuit"
   },
   "B75945128E7900110B73264BDF7A06D2ED1EBB2A": {
@@ -594,15 +619,10 @@ const esgDriverVehicleIds = {
     "driverId": 15,
     "trackName": "GCN Daisy Cruiser"
   },
-  "8BA7E0A473F06577CEA3DFD73BE639E3DA3C9FF1": {
+  "5847F41756CC802BDE1860522A4055C1310ABC89": {
     "vehicleId": 22,
     "driverId": 10,
     "trackName": "GCN Dino Dino Jungle"
-  },
-  "4290D5C9F8E46EBDB44B9EAA2D78EBCF450F7CA9": {
-    "vehicleId": 32,
-    "driverId": 21,
-    "trackName": "GCN Dry Dry Desert"
   },
   "B7AC061F7AB2AEF14E042466F68DA37AA21F7E68": {
     "vehicleId": 31,
@@ -629,7 +649,7 @@ const esgDriverVehicleIds = {
     "driverId": 12,
     "trackName": "GCN Sherbet Land"
   },
-  "FB5804B3089EC3BB05753078A2F9D387D3E1D9EB": {
+  "5D03E1032D82DD20AC0A083CBEC09BA4DB8226C6": {
     "vehicleId": 23,
     "driverId": 11,
     "trackName": "GCN Wario Colosseum"
@@ -639,29 +659,29 @@ const esgDriverVehicleIds = {
     "driverId": 17,
     "trackName": "GCN Yoshi Circuit"
   },
+  "7166DF0F23AAD49671280265683650CB18939821": {
+    "vehicleId": 32,
+    "driverId": 11,
+    "trackName": "Glacier Mine"
+  },
   "4925C8F405755F849FEA31EC78CBF263DFE748D1": {
     "vehicleId": 23,
     "driverId": 11,
     "trackName": "Glimmer Express Trains"
   },
-  "9B9E7FB4531A43CD087D6BFF75BA5B0FA8D1A868": {
+  "8E5F8B15EA05A5A2E0027315CEA369A90532DED1": {
     "vehicleId": 23,
-    "driverId": 3,
+    "driverId": 21,
     "trackName": "Gothic Castle"
-  },
-  "E1C46A6648A7651E04CAFFF63CA0DEE2BE160464": {
-    "vehicleId": 22,
-    "driverId": 0,
-    "trackName": "GP Mario Beach"
   },
   "3EDAD33885DA10E25CAAA82C5AF94F392154D740": {
     "vehicleId": 22,
     "driverId": 7,
     "trackName": "Halogen Highway"
   },
-  "8BFE0DEF91391D0E1930F04662C23CCD407C70E9": {
+  "4AF8D48935BF9E977F1C744124A5A0D706E95BCA": {
     "vehicleId": 22,
-    "driverId": 16,
+    "driverId": 15,
     "trackName": "Haunted Gardens"
   },
   "7D92E8132BFFBD19B7871A619C629198824EC22C": {
@@ -669,25 +689,15 @@ const esgDriverVehicleIds = {
     "driverId": 21,
     "trackName": "Hell Pyramid"
   },
-  "6106EEFE8FF36CCC912EAA206AE5603C8C4C0A1A": {
-    "vehicleId": 23,
-    "driverId": 21,
-    "trackName": "Hellado Mountain"
-  },
   "DA74F3399138CBABAA08182163ACE343F2746357": {
     "vehicleId": 23,
     "driverId": 9,
     "trackName": "Honeybee Hideout"
   },
-  "8794860F60EB3DE8A96AF1CF43289CD094BFDF1F": {
-    "vehicleId": 23,
-    "driverId": 11,
+  "F03D226B68E03581593BE58A40FDCEBDC55CDA6F": {
+    "vehicleId": 22,
+    "driverId": 17,
     "trackName": "Ice Cream Fortress"
-  },
-  "3BD376920AD1EB5E5696A132E796915D0CBEEDD9": {
-    "vehicleId": 23,
-    "driverId": 23,
-    "trackName": "Icepeak Mountain"
   },
   "F1A761F9A647F9C702936587F2DB281D87437641": {
     "vehicleId": 32,
@@ -769,20 +779,15 @@ const esgDriverVehicleIds = {
     "driverId": 7,
     "trackName": "Luigi's Island"
   },
-  "EDA0C5F158AC29688E1BDCA88FDBA5086B015944": {
-    "vehicleId": 23,
-    "driverId": 19,
+  "FE3AC3FCE9661215EEA57010D2C78EA42116D72B": {
+    "vehicleId": 31,
+    "driverId": 32,
     "trackName": "Lumpy's Lively Lair"
   },
   "61B92095F81D0CDDB933DCB390E8935F05012D11": {
     "vehicleId": 23,
     "driverId": 23,
     "trackName": "Lunar Lights"
-  },
-  "2D21E86BF0CE3A7018EAF4AE5AF9D9C5350405E9": {
-    "vehicleId": 22,
-    "driverId": 31,
-    "trackName": "Lunar Spaceway"
   },
   "486F113480AA2A55795BBA3F9A1C845002FF4C0D": {
     "vehicleId": 22,
@@ -794,7 +799,7 @@ const esgDriverVehicleIds = {
     "driverId": 21,
     "trackName": "Magmatic Sanctuary"
   },
-  "13A442A746913E8B5337C85F629F351D8CB6C8AA": {
+  "03C73B5D31119F35E945F75F7182D26746FC8123": {
     "vehicleId": 23,
     "driverId": 36,
     "trackName": "Mansion of Madness"
@@ -804,17 +809,22 @@ const esgDriverVehicleIds = {
     "driverId": 18,
     "trackName": "Marble Towers"
   },
-  "71FFF6757C575BCB689B80CF4639ADDBFFEC753C": {
-    "vehicleId": 33,
-    "driverId": 6,
+  "E3BA519A1F7C7CC633E14BAE51650E910181D17B": {
+    "vehicleId": 34,
+    "driverId": 0,
     "trackName": "Mario Castle Raceway"
+  },
+  "B69A2221C57ED24954A68EFED83450EF86C98FE0": {
+    "vehicleId": 23,
+    "driverId": 21,
+    "trackName": "Mech Factory"
   },
   "65910B117BE302A74AA79AE6F92DF4FB2F77E5E7": {
     "vehicleId": 23,
     "driverId": 3,
     "trackName": "Medieval Castlegrounds"
   },
-  "882AFADD91CD261E941BEE24A563FAE51F7FF661": {
+  "C0E2D99503124309782716774DA67E3D140EDC08": {
     "vehicleId": 23,
     "driverId": 36,
     "trackName": "Melody Sanctum"
@@ -838,11 +848,6 @@ const esgDriverVehicleIds = {
     "vehicleId": 22,
     "driverId": 7,
     "trackName": "Mushroom Peaks"
-  },
-  "5E55150E3F5BDD0BF387BAC8A52C9102719BC987": {
-    "vehicleId": 21,
-    "driverId": 8,
-    "trackName": "Mushroom Valley"
   },
   "E48D72DB307842767833BCFC928C59C80E3DB058": {
     "vehicleId": 22,
@@ -874,20 +879,10 @@ const esgDriverVehicleIds = {
     "driverId": 16,
     "trackName": "N64 Frappe Snowland"
   },
-  "F9DE7D3EA9D4A46BA25B3CDC78922DDEB596151C": {
-    "vehicleId": 32,
-    "driverId": 21,
-    "trackName": "N64 Kalimari Desert"
-  },
   "9FC27EFBCCC5CBDDCC8E9EF46B4DF3BEB92B3ED7": {
     "vehicleId": 30,
     "driverId": 14,
     "trackName": "N64 Koopa Troopa Beach"
-  },
-  "261B214D952D1911C56D6A067AA4EE53F875E5E4": {
-    "vehicleId": 31,
-    "driverId": 7,
-    "trackName": "N64 Luigi Raceway"
   },
   "F712AD1811D01474B0A68C491B267B0C6CF13C0D": {
     "vehicleId": 23,
@@ -918,16 +913,6 @@ const esgDriverVehicleIds = {
     "vehicleId": 23,
     "driverId": 19,
     "trackName": "New Moon Manor"
-  },
-  "F2EA7DC2CB2160C8118ADBD6F0B183426A838263": {
-    "vehicleId": 23,
-    "driverId": 2,
-    "trackName": "Nightlife Party"
-  },
-  "0DFAD14EE037952956337212CA47B93BBCEBD67E": {
-    "vehicleId": 23,
-    "driverId": 21,
-    "trackName": "N.I.S.W.O.E. Desert"
   },
   "FAE1B20753AC06B6BEFF189F556B289E90D4D0B2": {
     "vehicleId": 34,
@@ -964,7 +949,7 @@ const esgDriverVehicleIds = {
     "driverId": 18,
     "trackName": "Quaking Mad Cliffs"
   },
-  "36AE0163EFF3989C6F9E1DFFC459C1B11D296519": {
+  "8F3C753123B436F374AB41E3B04EFBACAC867596": {
     "vehicleId": 23,
     "driverId": 23,
     "trackName": "Rainbow Road: Solar Edition"
@@ -984,6 +969,11 @@ const esgDriverVehicleIds = {
     "driverId": 23,
     "trackName": "Royal Rainbow"
   },
+  "0436239CDD69849D014A7806487A43D8613362B6": {
+    "vehicleId": 23,
+    "driverId": 39,
+    "trackName": "Ruinated Peach's Castle"
+  },
   "49D18ED19F5EA0CF60F2FEE2D911A68D56EEA0A9": {
     "vehicleId": 7,
     "driverId": 18,
@@ -999,15 +989,15 @@ const esgDriverVehicleIds = {
     "driverId": 15,
     "trackName": "Sakura Sanctuary"
   },
-  "80F1E250930245E67799C56BE72CFE8657C5F698": {
+  "0F8E493495051EA90755695483CBE5E2790762DE": {
     "vehicleId": 23,
     "driverId": 9,
     "trackName": "Sandstone Cliffs"
   },
-  "D54F59C8B3ACF5DB6FEDE98E3C7FD5800AAC60EB": {
-    "vehicleId": 33,
-    "driverId": 8,
-    "trackName": "Sea Stadium"
+  "58568E023855BF50DD6E4B8B3216A64188E70DA3": {
+    "vehicleId": 23,
+    "driverId": 9,
+    "trackName": "Shy Guy Lumber Co."
   },
   "FB8D89E4EA9F6E3072785E75789A140FF1469AA5": {
     "vehicleId": 23,
@@ -1054,11 +1044,6 @@ const esgDriverVehicleIds = {
     "driverId": 18,
     "trackName": "SNES Choco Island 2"
   },
-  "24F305DE71EED1898E3DE875DDB58552C8514792": {
-    "vehicleId": 22,
-    "driverId": 32,
-    "trackName": "SNES Donut Plains 2"
-  },
   "3DBD5E5E3084972AA3FEFC0FFC06D7D02253CDE9": {
     "vehicleId": 22,
     "driverId": 18,
@@ -1074,9 +1059,9 @@ const esgDriverVehicleIds = {
     "driverId": 0,
     "trackName": "SNES Mario Circuit 2"
   },
-  "6B8F02B66A99407E5D5713AD6B2A36652FAA735D": {
-    "vehicleId": 9,
-    "driverId": 12,
+  "D4EBE8658EB9D134EA7BB08BFCD97884DBF2D499": {
+    "vehicleId": 14,
+    "driverId": 23,
     "trackName": "SNES Rainbow Road"
   },
   "A864CA9D9BD8D515A683C50D6B34FA3FD977B463": {
@@ -1089,15 +1074,25 @@ const esgDriverVehicleIds = {
     "driverId": 10,
     "trackName": "Spike Desert"
   },
-  "4F86672B7014BAF1F496E36ECF0C55AC455BF329": {
-    "vehicleId": 8,
-    "driverId": 23,
-    "trackName": "Star Slope"
+  "7658D98FCB97F5F498FA921019EB119C988668FA": {
+    "vehicleId": 23,
+    "driverId": 19,
+    "trackName": "Spooky Swamp"
   },
   "8E49E653A014415B4E4CDFF6C871D1A6BD483BC7": {
     "vehicleId": 23,
     "driverId": 9,
     "trackName": "Stargaze Summit"
+  },
+  "A4013CEB801EFBDD3DC9EF4ACE1E442BABB43DE6": {
+    "vehicleId": 23,
+    "driverId": 23,
+    "trackName": "Starry Cityscape"
+  },
+  "EB8CF8313FA6EFEA4C60D78FBE49FC245157B737": {
+    "vehicleId": 22,
+    "driverId": 10,
+    "trackName": "Strobenz Desert Illusion"
   },
   "6F17D276BBC56FA6C6F6D3E21E4DF848710C991B": {
     "vehicleId": 22,
@@ -1109,25 +1104,35 @@ const esgDriverVehicleIds = {
     "driverId": 22,
     "trackName": "Sunset Forest"
   },
-  "5D7279FC9CC839C6F4ACA23A9B1D35B8EE811C78": {
-    "vehicleId": 21,
-    "driverId": 4,
-    "trackName": "Sunset Ridge"
-  },
   "D07FEE8D33BA67791B643F10205999616E343DE9": {
     "vehicleId": 32,
     "driverId": 36,
     "trackName": "Super Marine World"
   },
-  "D4BC99C4B271322390BE150DEBA4B5395EBE719C": {
+  "CFDFA61DAE102C1FF25E579DC05336AAB3029605": {
+    "vehicleId": 6,
+    "driverId": 14,
+    "trackName": "Super Sky Courtyard"
+  },
+  "C480770399C526B1B707CE3E54307AA6884A5637": {
     "vehicleId": 23,
     "driverId": 21,
     "trackName": "Superstar Dystopia"
   },
-  "8126A55FA6914CC36A18D820C6AD1FA61BA5A3ED": {
-    "vehicleId": 23,
-    "driverId": 9,
+  "17E71BB268BCE5474CD62BDC495DDAC2919B4171": {
+    "vehicleId": 22,
+    "driverId": 18,
     "trackName": "Terra Ursae"
+  },
+  "6E9CDBF4963F732229255480F1B21457FE690B11": {
+    "vehicleId": 6,
+    "driverId": 12,
+    "trackName": "The Grand Archives"
+  },
+  "9BFD1962A1330FC6A6454E3995920328AAAE169B": {
+    "vehicleId": 22,
+    "driverId": 0,
+    "trackName": "The Great Apple War"
   },
   "5512F307782223EA11861668377A3D892082F392": {
     "vehicleId": 22,
@@ -1139,9 +1144,9 @@ const esgDriverVehicleIds = {
     "driverId": 19,
     "trackName": "Thump Bump Forest"
   },
-  "0B8327D1F32A7591E55FFFCBAEB4D7DF6221EFEB": {
+  "57427E45CC0BD39BDA29C2BE2F3BD8D7ED5F588D": {
     "vehicleId": 23,
-    "driverId": 3,
+    "driverId": 19,
     "trackName": "Thwomp Swamp"
   },
   "4CC9EEF9C4EA9441BFD664A69418985902D79E19": {
@@ -1174,12 +1179,7 @@ const esgDriverVehicleIds = {
     "driverId": 0,
     "trackName": "Unfinished Mario Circuit"
   },
-  "8BA5D66153C6C9D1D478B8ADEFE2794C80345CE3": {
-    "vehicleId": 23,
-    "driverId": 21,
-    "trackName": "Unnamed Valley"
-  },
-  "179503DD1EFC6809570B6F68BFF1C8442BCAA931": {
+  "CC87B9655B95AEA192A6306A42DC711311441EE8": {
     "vehicleId": 23,
     "driverId": 21,
     "trackName": "Vile Isle"
@@ -1188,16 +1188,6 @@ const esgDriverVehicleIds = {
     "vehicleId": 23,
     "driverId": 21,
     "trackName": "Volcanic Valley"
-  },
-  "D0C4B075A14B7E9080DC7B3B4D90D1A7937E2F25": {
-    "vehicleId": 23,
-    "driverId": 21,
-    "trackName": "Volcano Canyon"
-  },
-  "9F09DDB05BC5C7B04BB7AA120F6D0F21774143EB": {
-    "vehicleId": 23,
-    "driverId": 2,
-    "trackName": "Waluigi's Motocross"
   },
   "9B9ADFD746006C504B7E4540C1CE4AA23ED93B9D": {
     "vehicleId": 32,
@@ -1214,14 +1204,19 @@ const esgDriverVehicleIds = {
     "driverId": 16,
     "trackName": "White Garden"
   },
+  "E393FFA6E046290CAB2A80426D7F41B1859B2C02": {
+    "vehicleId": 23,
+    "driverId": 11,
+    "trackName": "Wiimmfi Wonder World"
+  },
   "029E67BE4DDF236DB11355F8E3134BCBB5297CC7": {
     "vehicleId": 22,
     "driverId": 16,
     "trackName": "Windmill Village"
   },
-  "C166BDF5D98F8CC9C62020ECD50F36B9494A9E07": {
-    "vehicleId": 32,
-    "driverId": 36,
+  "BA1FEAAEF5E2B3A1E658CFB0C948D504EC445AC8": {
+    "vehicleId": 14,
+    "driverId": 22,
     "trackName": "Windy Whirl"
   },
   "53DFB7FF1646126557ED3FDAE27182674A3088E8": {
@@ -1248,5 +1243,10 @@ const esgDriverVehicleIds = {
     "vehicleId": 22,
     "driverId": 10,
     "trackName": "Yoshi's Woolly Raceway"
+  },
+  "B9D0472D1DF02680419CAFF19E78D831956FBB5C": {
+    "vehicleId": 8,
+    "driverId": 9,
+    "trackName": "\u03c4-Cryovolcano"
   }
 };

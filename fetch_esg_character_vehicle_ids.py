@@ -8,8 +8,8 @@ ghost_page_link_regex = re.compile(r"^https://(?:www\.)?chadsoft\.co\.uk/time-tr
 def main():
     esg_driver_vehicle_ids = {}
 
-    with open("current_esg_links.json", "r") as f:
-        current_esg_links = json.load(f)
+    with open("current_esg_links.txt", "r") as f:
+        current_esg_links = f.read().strip().splitlines()
 
     for esg_link in current_esg_links:
         esg_driver_vehicle_id = {}
